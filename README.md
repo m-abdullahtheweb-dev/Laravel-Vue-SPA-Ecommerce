@@ -109,7 +109,3 @@ Open: http://127.0.0.1:8000
 
 **Server:** PHP8.2, Laravel10.x, Liveware, Bootstrap
 
-
-## Authors
-
-- [@devamirul](https://www.github.com/devamirul)
